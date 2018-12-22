@@ -1,0 +1,7 @@
+gulpfile.js
+html/
+node_modules/
+*.json
+scss/
+
+.DS_Store
